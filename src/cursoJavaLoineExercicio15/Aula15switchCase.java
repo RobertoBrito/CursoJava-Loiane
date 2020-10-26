@@ -1,4 +1,4 @@
-package aulaeExercicosifElse;
+package cursoJavaLoineExercicio15;
 
 import javax.swing.JOptionPane;
 

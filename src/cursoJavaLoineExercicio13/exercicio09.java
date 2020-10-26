@@ -1,3 +1,4 @@
+package cursoJavaLoineExercicio13;
 import javax.swing.JOptionPane;
 
 //calcular Temperatuda de F° p C°
